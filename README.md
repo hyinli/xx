@@ -1,3 +1,4 @@
+theme:jekyll-theme-cayman
 # 说明：所有资料将于周二下午公布
 *建议或异议请发邮件:e-mail:hyinli@163.com* 
 
